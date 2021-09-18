@@ -1,0 +1,28 @@
+{
+  "name": "cachectl",
+  "version": "1.0.0",
+  "description": "Creates Cache-Control headers",
+  "main": "lib.js",
+  "types": "lib.d.ts",
+  "author": "TomBailey <inbox@tombailey.me>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tombailey/cachecontrol.git"
+  },
+  "keywords": [
+    "cache",
+    "control",
+    "ctl",
+    "cachecontrol",
+    "cache-control",
+    "cachectl"
+  ],
+  "bugs": {
+    "url": "https://github.com/tombailey/cachecontrol/issues"
+  },
+  "homepage": "https://github.com/tombailey/cachecontrol#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
